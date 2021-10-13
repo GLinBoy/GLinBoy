@@ -8,5 +8,6 @@
   [![Blogger Badge](https://img.shields.io/badge/-GLinBoy-orange?style=flat&logo=Blogger&logoColor=white&link=https://blog.glinboy.com/)](https://blog.glinboy.com/)
   [![Telegram Badge](https://img.shields.io/badge/-GLinBoy-informational?style=flat&logo=Telegram&logoColor=white&link=https://t.me/glinboy)](https://t.me/glinboy)
   [![Youtube Badge](https://img.shields.io/badge/-GLinBoy-red?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCJZn8rSjxEueWo64tuZ9JvA)](https://www.youtube.com/channel/UCJZn8rSjxEueWo64tuZ9JvA)
+  [![Twitch Badge](https://img.shields.io/badge/-GLinBoy-blueviolet?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/glinboy)](https://www.twitch.tv/glinboy)
 
 </div>
