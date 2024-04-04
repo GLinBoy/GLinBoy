@@ -2,6 +2,12 @@
 
 <div align="center">
 
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  
+</div>
+
+<div align="center">
+
   [![Linkedin Badge](https://img.shields.io/badge/-GLinBoy.com-success?style=flat&logo=AIOHTTP&logoColor=white&link=https://glinboy.com)](https://glinboy.com)
   [![Linkedin Badge](https://img.shields.io/badge/-hojjatabedi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hojjatabedi)](https://www.linkedin.com/in/hojjatabedi)
   [![BlueSky Badge](https://img.shields.io/badge/-GLinBoy-3693F3?style=flat&logo=icloud&logoColor=white&link=https://glinboy.bsky.social)](https://glinboy.bsky.social)
