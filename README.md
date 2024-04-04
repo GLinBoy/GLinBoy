@@ -47,3 +47,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlinBoy&layout=compact)
 
 </div>
+
+<div align="center">
+
+  ![:glinboy](https://count.getloli.com/get/@glinboy?theme=rule34)
+
+</div>
