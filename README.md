@@ -20,3 +20,9 @@
   [![Twitch Badge](https://img.shields.io/badge/-GLinBoy-yellowgreen?style=flat&logo=Goodreads&logoColor=white&link=https://goodreads.com/glinboy)](https://goodreads.com/glinboy)
 
 </div>
+
+<div align="center">
+
+  ![Snake animation](./images/snk/github-contribution-grid-snake.svg)
+
+</div>
