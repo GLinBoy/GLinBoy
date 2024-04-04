@@ -32,3 +32,11 @@
   ![GitHub Profile 3D Contribute](./images/profile-3d-contrib/profile-green-animate.svg)
 
 </div>
+
+<div align="center">
+
+  ![trophy SECRET tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SECRET&margin-w=13)
+  ![trophy S tiren](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SSS,SS,S&margin-w=13)
+  ![trophy A tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=AAA,AA,A&margin-w=13)
+
+</div>
