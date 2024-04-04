@@ -40,3 +40,10 @@
   ![trophy A tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=AAA,AA,A&margin-w=13)
 
 </div>
+
+<div align="center">
+
+  ![GLinBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLinBoy&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlinBoy&layout=compact)
+
+</div>
