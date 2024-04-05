@@ -58,21 +58,7 @@
 
 </div>
 
-<div>
-
-  ### Latest Posts
-  <!-- feed start -->
-  <!-- feed end -->
-  
-</div>
-
-<hr />
-
-<div align="center">
-
-  ![:glinboy](https://count.getloli.com/get/@glinboy?theme=rule34)
-
-</div>
+### :memo: Recent Blog Posts
 
 <!-- feed start -->
 - Dec 27 - [Enable old TSL\SSL protocol on Java](https://blog.glinboy.com/2021/12/enable-old-tsl-ssl-protocol-on-java.html)
@@ -81,3 +67,11 @@
 - Nov 18 - [Make rows clickable in VueJS table with ignore a column(s)](https://blog.glinboy.com/2021/11/make-rows-clickable-in-vuejs-table-with-ignore-a-column.html)
 - Feb 23 - [Get user roles from Keycloak in Spring/Jhipster](https://blog.glinboy.com/2021/02/roles-spring-jhipster-keycloak.html)
 <!-- feed end -->
+
+<hr />
+
+<div align="center">
+
+  ![:glinboy](https://count.getloli.com/get/@glinboy?theme=rule34)
+
+</div>
