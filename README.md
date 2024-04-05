@@ -58,6 +58,17 @@
 
 </div>
 
+<div>
+
+  ### :memo: Recent Blog Posts
+
+  <!-- feed start -->
+  <!-- feed end -->
+  
+</div>
+
+<hr />
+
 <div align="center">
 
   ![:glinboy](https://count.getloli.com/get/@glinboy?theme=rule34)
