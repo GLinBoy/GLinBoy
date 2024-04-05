@@ -29,6 +29,7 @@ jobs:
         with:
           url: 'https://blog.glinboy.com/feeds/posts/default'
           file: 'README.md'
+          format: '- ${monthshort}. ${02day}, ${year} - [${title}](${url})'
       - name: Commit & Push
         run: |
           rm -rf images/profile-3d-contrib/
