@@ -35,9 +35,19 @@
 
 <div align="center">
 
-  ![trophy SECRET tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SECRET&margin-w=13)
-  ![trophy S tiren](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SSS,SS,S&margin-w=13)
-  ![trophy A tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=AAA,AA,A&margin-w=13)
+  ![trophy SECRET tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SECRET&margin-w=13&column=3)
+
+</div>
+
+<div align="center">
+  
+  ![trophy S tiren](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=SSS,SS,S&margin-w=13&column=4)
+  
+</div>
+
+<div align="center">
+  
+  ![trophy A tire](https://github-profile-trophy.vercel.app/?username=GLinBoy&rank=AAA,AA,A&margin-w=13&column=3)
 
 </div>
 
