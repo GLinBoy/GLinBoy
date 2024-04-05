@@ -25,6 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://blog.glinboy.com/feeds/posts/default'
+          file: 'README.md'
       - name: Commit & Push
         run: |
           rm -rf images/profile-3d-contrib/
